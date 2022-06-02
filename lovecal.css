@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+
+
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Handlee', cursive;
+}
+
+
+header {
+    text-align: center;
+    margin: 10%;
+    font-size: 30px;
+}
+
+table {
+    text-align: center;
+    margin: 10px auto;
+    margin-bottom: 50px;
+    font-size: 25px;
+    border-spacing: 20px 15px;
+
+
+
+}
+
+#btn {
+    background-color: #E8F9FD;
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 10px;
+    /* box-shadow: 0 0 10px 10px #FFC3C3; */
+    font-weight: 900;
+    opacity: 0.5;
+}
+
+input {
+    font-size: 28px;
+    border-radius: 10px;
+    /* box-shadow: 0 0 10px 10px #FFC3C3; */
+    font-weight: 900;
+    padding: 5px;
+    text-align: center;
+    opacity: 0.5;
+
+}
+
+footer {
+    padding: 0;
+    text-align: center;
+}
+
+footer h1 {
+    padding-top: 5px;
+}
+
+footer h5 {
+    text-align: right;
+    font-size: 20px;
+}
+
+body {
+    background-image: url(/mayur-gala-2PODhmrvLik-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+main h1 {
+    text-align: center;
+
+}
